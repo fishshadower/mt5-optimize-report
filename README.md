@@ -37,3 +37,8 @@ project_root/
 python3 analyze.py /path/to/ReportOptimizer-xxxx.xml
 ```
 
+## 页面
+
+![1](img/1.png)
+![2](img/2.png)
+![3](img/3.png)
