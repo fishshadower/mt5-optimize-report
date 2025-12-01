@@ -14,7 +14,7 @@ project_root/
   parser.py       # 解析 MT5 导出的 XML
   report.py       # 生成 HTML 报告
   analyze.py      # 分析入口（批量/单文件）
-  run.command     # macOS 一键运行入口
+  run_mac.command     # macOS 一键运行入口
   run_windows.bat # Windows 一键运行入口
   mt5_xml/        # 你放 MT5 导出的 XML 文件
   reports/        # 自动生成的 HTML 报告
@@ -26,8 +26,7 @@ project_root/
 - 确保安装python3
 - 将MT5生成的xml文件放到mt5_xml文件夹下
 - 运行命令需要给予权限
-  - Mac：
-  - Windows：
+  - Mac：chmod +x run_mac.command
 - 按自己电脑系统点击一键运行命令
 
 ## 注意
